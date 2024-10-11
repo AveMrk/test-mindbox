@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  text-align: center;
+}
+.todo.todo-completed{
+  text-decoration: line-through;
+  opacity: 0.6;
+}
