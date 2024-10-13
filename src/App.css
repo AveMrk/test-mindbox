@@ -5,7 +5,11 @@
 body{
   text-align: center;
 }
-.todo.todo-completed{
+.todo.todo-Completed{
   text-decoration: line-through;
   opacity: 0.6;
+}
+.todo:hover,
+.btn-clear:hover{
+  cursor: pointer;
 }
